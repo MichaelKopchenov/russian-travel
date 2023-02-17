@@ -5,14 +5,14 @@
 
 @media screen and (max-width: 1279px) {
     .cover {
-      margin: 92px 0 0;
+      margin: 95px 0 0;
       max-width: 100%;
     }
   }
 
   @media screen and (max-width: 1023px) {
    .cover {
-      margin: 90px 0 0;
+      margin: 85px 0 0;
       max-width: 100%;
    }
 }

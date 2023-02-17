@@ -18,6 +18,7 @@
     .photo-grid {
         grid-template-columns: repeat(2, 1fr);
         max-width: calc(100% - 48px);
+        margin-top: 88px;
         gap: 16px;
     }
 }
@@ -26,6 +27,7 @@
     .photo-grid {
         grid-template-columns: 1fr;
         max-width: calc(100% - 32px);
+        margin-top: 64px;
         gap: 12px;
     }
 }
